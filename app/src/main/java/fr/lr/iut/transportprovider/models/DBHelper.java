@@ -10,12 +10,14 @@ import android.database.sqlite.SQLiteOpenHelper;
 import java.util.ArrayList;
 
 /**
- * @author Daniel Medina
+ * The database creator
+ *
+ * @author Jesús Daniel Medina Cruz
  * @since 07/12/2017
  */
 
 @Database(entities = {Transport.class}, version = 1)
-public abstract class DBHelper extends RoomDatabase{
+public abstract class DBHelper extends RoomDatabase {
     @SuppressWarnings("WeakerAccess")
     public abstract TransportDao transportDao();
 

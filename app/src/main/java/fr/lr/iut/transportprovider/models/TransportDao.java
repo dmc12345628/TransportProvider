@@ -9,8 +9,12 @@ import android.database.Cursor;
 
 import java.util.ArrayList;
 
+
 /**
- * Created by Hp on 07/12/2017.
+ * Data Access Object to transports table
+ *
+ * @author Jesús Daniel Medina Cruz
+ * @since 07/12/2017
  */
 
 @Dao

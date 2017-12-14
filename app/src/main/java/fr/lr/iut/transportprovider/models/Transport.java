@@ -7,7 +7,9 @@ import android.content.ContentValues;
 import android.support.annotation.NonNull;
 
 /**
- * @author Daniel Medina
+ * The transports table structure
+ *
+ * @author Jesús Daniel Medina Cruz
  * @since 07/12/2017
  */
 @Entity(tableName = "transports")

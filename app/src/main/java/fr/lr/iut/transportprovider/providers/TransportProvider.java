@@ -22,7 +22,9 @@ import static fr.lr.iut.transportprovider.providers.PC.Transport.TRANSPORT_DIR;
 import static fr.lr.iut.transportprovider.providers.PC.Transport.TRANSPORT_ITEM;
 
 /**
- * @author Daniel Medina
+ * The content provider allow another apps to access to database
+ *
+ * @author Jesús Daniel Medina Cruz
  * @since 07/12/2017
  */
 

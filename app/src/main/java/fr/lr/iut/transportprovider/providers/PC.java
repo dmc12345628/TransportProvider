@@ -5,7 +5,7 @@ import android.net.Uri;
 /**
  * The Providers constants
  *
- * @author Daniel Medina
+ * @author Jesús Daniel Medina Cruz
  * @since 07/12/2017
  */
 
